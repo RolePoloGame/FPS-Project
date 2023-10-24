@@ -1,0 +1,43 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 210da1c6a1f25924b8d27d18534990eb, type: 3}
+  m_Name: Green Crystal
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Green Crystal
+  <Description>k__BackingField: A blunderbuss with green crystal
+  <Icon>k__BackingField: {fileID: 2800000, guid: 9cb53aaba253cf348944fea99bb403f4,
+    type: 3}
+  <IconColor>k__BackingField: {r: 0.03645591, g: 0.754717, b: 0, a: 1}
+  <PickupModels>k__BackingField: []
+  Visual:
+    m_AssetGUID: 587e01fbee369dd448c673848349cc9b
+    m_SubObjectName: 
+    m_SubObjectType: 
+    m_EditorAssetChanged: 0
+  Type: 0
+  RangedType: 0
+  Distance: 100
+  Damage: 2
+  hitLayerMask:
+    serializedVersion: 2
+    m_Bits: 1280
+  HoldAttack: 1
+  ExplosionForce: 200
+  ExplosionRadius: 2
+  ShootDelay: 0.5
+  HasAmmo: 1
+  ClipSize: 8
+  AmmoPerShot: 1
+  Penetration: 1
+  Spread: 0.01
+  ReloadTime: 0.5
+  StopsAtGround: 1

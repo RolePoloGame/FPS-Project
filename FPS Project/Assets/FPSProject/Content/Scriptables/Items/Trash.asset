@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: cf8f47a2efaa7e447b70ddcfe28672f1, type: 3}
+  m_Name: Trash
+  m_EditorClassIdentifier: 
+  <Name>k__BackingField: Woodden Box
+  <Description>k__BackingField: Just a wodden box
+  <Icon>k__BackingField: {fileID: 2800000, guid: 8a6ab6e60de95744f86c01ba2829dbb8,
+    type: 3}
+  <IconColor>k__BackingField: {r: 0.31132078, g: 0.13440053, b: 0.051103584, a: 1}
+  <PickupModels>k__BackingField: []

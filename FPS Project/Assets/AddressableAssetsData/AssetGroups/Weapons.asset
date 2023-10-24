@@ -1,0 +1,49 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: bbb281ee3bf0b054c82ac2347e9e782c, type: 3}
+  m_Name: Weapons
+  m_EditorClassIdentifier: 
+  m_GroupName: Weapons
+  m_Data:
+    m_SerializedData: []
+  m_GUID: 4f1ac3e36abffff418c887d4daa0952a
+  m_SerializeEntries:
+  - m_GUID: 587e01fbee369dd448c673848349cc9b
+    m_Address: Gun_Simple_Green
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 5fc62151c65939843be2b6d8229a0aa3
+    m_Address: Gun_Simple_Red
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 1daf66f9b02f6b94184794526a8f45fa
+    m_Address: Gun_Simple_Blue
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: dd36e04129ad630438a20127f02b7fac
+    m_Address: SFX_Gun_Shot_01
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 7edb30d7cdaa3d24590aa620668c01dd
+    m_Address: SFX_Gun_Reload
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  - m_GUID: 11543ddd5abfa5445bbf44fadbd21ae1
+    m_Address: BulletDedcal
+    m_ReadOnly: 0
+    m_SerializedLabels: []
+  m_ReadOnly: 0
+  m_Settings: {fileID: 11400000, guid: d85f7d0d483c91240978e8b9032974d7, type: 2}
+  m_SchemaSet:
+    m_Schemas:
+    - {fileID: 11400000, guid: fb1df4b3d17b12940883990c7556d1a6, type: 2}
+    - {fileID: 11400000, guid: f1d667f341585714292cfd9db943da46, type: 2}
